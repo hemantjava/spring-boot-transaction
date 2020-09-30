@@ -1,4 +1,4 @@
-package com.example.springboottransaction;
+package com.example.springboottransaction.service;
 
 import com.example.springboottransaction.entity.Student;
 import com.example.springboottransaction.entity.repository.StudentRepository;
